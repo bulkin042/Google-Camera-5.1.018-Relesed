@@ -1,4 +1,4 @@
-![Lenovo A5000](https://my-files.ru/Get/k9ahfr/logo_google_camera_round.png?justuploaded=true)
+![Google-Camera](https://github.com/bulkin042/Google-Camera-5.1.018-Relesed/blob/master/logo.png?raw=true)
 # Google-Camera-5.1.018-Relesed
 Version: 5.1.018.177624777
 Posted by: @ snapdragon625_mido
@@ -12,7 +12,8 @@ The most stable in my view is the camera. The photos are saturated and there is 
 • The optimal set of settings in the item under our device immediately from the box.
 
 # 01.15.2019g.
-• Due to frequent calls to me, due to frequent camera drops when clicking on the lower bar, I had to remove this function, but the item is still on the way • Additional camera settings-HDR + auto-exposure mode.
+• Due to frequent calls to me, due to frequent camera drops when clicking on the lower bar, I had to remove this function, but the item is still on the way
+• Additional camera settings-HDR + auto-exposure mode.
 • Added new item "Increased detail" in portrait mode.
 • Added an item with a link to the author of the camera in Telegram, if you have any preferences, then write there ...
 • Fixed zoom on the front camera.
